@@ -17,6 +17,8 @@ The time complexity of the dynamic programming solution is: O(N^2)
 
 # Directory Structure
 
+<pre>
 📦Binary-Knapsack-Problem-DP
 ┣ 📜main.cpp
 ┗ 📜README.md
+</pre>
